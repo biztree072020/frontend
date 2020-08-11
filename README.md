@@ -47,4 +47,4 @@ On the frontend part:
 - Due to the short amount of time you should allocate to this mini-project (**do not spend more than an hour on it**), the final code will not be analyzed as whether it works or not on the browser but from ability to cover multiple topics, structure, technique and scalability perspective. Focus on the core skeleton which will define the widget functionality.
 - In order to review your work we will do a screen sharing in which session you will walk us through your approach to accomplish the task.
 
-### Good luck!
+### Good luck and keep in touch!
